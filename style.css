@@ -8,7 +8,6 @@ body {
     align-items: center;
     display: flex;
     flex-direction: column;
-    width: 100%;
 }
 
 .card {
@@ -17,10 +16,7 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.095), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
     display: flex;
-    margin-bottom: 20px;
-    max-width: 40%;
-    min-height: 200px;
-    overflow: hidden;
+    margin: 20px;
 }
 
 .card-head, .code-no{
@@ -52,7 +48,6 @@ main {
     align-items: center;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
     margin-top: 30px;
     width: 100%;
 }
@@ -63,9 +58,7 @@ main {
 }
 
 #main-title {
-    font-size: 40px;
-    text-align: left;
-    width: 40%;
+    font-size: 30px;
 }
 
 .text {

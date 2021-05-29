@@ -48,8 +48,8 @@ body {
 main {
     display: flex;
     flex-direction: column;
+    max-width: 600px;
     margin: 20px auto;
-    max-width: 550px;
     padding: 0 15px;
 }
 

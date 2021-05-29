@@ -55,7 +55,7 @@ main {
 
 #main-title, .card-head {
     color: #494949;
-    font-weight: 400;
+    font-weight: normal;
 }
 
 #main-title {
@@ -63,8 +63,7 @@ main {
 }
 
 .text {
-    font-size: 13px;
-    line-height: 1.5;
+    font-size: 12px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -74,7 +73,7 @@ main {
     }
 
     .card-head, .code-no {
-        font-size: 30px;
+        font-size: 36px;
     }
 
     .card-head {
@@ -93,5 +92,6 @@ main {
     #main-title {
         font-size: 40px;
         align-self: flex-start;
+        font-size: 48px;
     }
 }

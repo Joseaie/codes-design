@@ -41,8 +41,8 @@ body {
 }
 
 .description {
-    margin: 10px 15px;
-    width: 80%;
+    margin: 0px 16px 35px 17px;
+    max-width: 455px;
 }
 
 main {

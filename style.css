@@ -35,8 +35,9 @@ body {
 .code-no {
     color: white;
     padding: 10px;
-    font-weight: 300;
     font-size: 20px;
+    font-weight: normal;
+    text-align: center;
 }
 
 .description {
